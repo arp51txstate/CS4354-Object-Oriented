@@ -1,0 +1,8 @@
+Lebron,James 610388 22500.00
+Kobe,Bryant 518241 14000.00 
+Peyton,Manning 123456 24500.00 
+Halle,Berry 78910 35250.50 
+Denzel,Washington 125671 64850.50 
+Kevin,Durant 444451 30000.00 
+Tim,Duncan 392010 10754.00 
+Beyonce,Knowles 910532 49250.00
